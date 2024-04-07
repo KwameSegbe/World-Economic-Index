@@ -1,4 +1,3 @@
-# World-Economic-Index
 # Economic Index Clustering by Country
 
 ## Introduction
